@@ -23,8 +23,8 @@ ScribePyは、音声ファイル（MP3, WAV, FLAC, M4Aなど）を高速かつ�
 
 ```mermaid
 graph TD
-    A[📁 ScribePy] --> B(📄 voice2txt.exe);
-    A --> C(📁 格納先);
+    B(📄 voice2txt.exe);
+    B --> C(📁 格納先);
     D[🔊 my_audio.mp3] --> C;
     B -- 実行 --> E{処理開始};
     E --> F[✅ my_audio.txt];
