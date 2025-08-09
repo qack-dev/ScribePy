@@ -105,7 +105,3 @@ cd ..\..\..\..\..
 ## 📜 ライセンス
 
 このプロジェクトは [MIT License](LICENSE) の下で公開されています。
-
-## 🤝 貢献
-
-バグ報告や機能改善の提案は、GitHubのIssuesやPull Requestsにて歓迎します。
