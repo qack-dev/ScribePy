@@ -44,7 +44,7 @@ graph TD
 
 **Step 1: リポジトリのクローン**
 ```bash
-git clone https://github.com/your-username/ScribePy.git
+git clone https://github.com/qack-dev/ScribePy.git
 cd ScribePy
 ```
 
